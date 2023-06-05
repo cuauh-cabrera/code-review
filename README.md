@@ -37,7 +37,8 @@
 
 # 📖 [Code Review <a name="about-project"></a>
 
-**[Code Review]**  The objective of this assigment is to learn how to implement a code review following the code review flow and how to give feedback in a professional way. The review is made on a past project I did as part of my preparation to enter the Microverse program. The aim of this project was to create the skeleton of a website using HTML and CSS. 
+**[Code Review]**  
+The objective of this assigment is to learn how to implement a code review following the code review flow and how to give feedback in a professional way. The review is made on a past project I did as part of my preparation to enter the Microverse program. The aim of this project was to create the skeleton of a website using HTML and CSS. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
